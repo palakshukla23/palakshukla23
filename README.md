@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakshith Prabhu</h1>
+<h1 align="center">Hi 👋, I'm Palak Shukla </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
@@ -7,14 +7,12 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **Python**
-- 📫 How to reach me: **rakxprabhu@gmail.com**
+- 📫 How to reach me: **palakshukla9876@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/prabhu_rkx" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://x.com/rakx_prabhu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" height="30" width="40" />
   </a>
 </p>
